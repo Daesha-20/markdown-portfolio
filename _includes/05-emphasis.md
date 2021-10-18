@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*plotting*
+_calculations_
+
+**massive code analysis**
+__Creating nice tables__
+
+_You **can** do it alll_
